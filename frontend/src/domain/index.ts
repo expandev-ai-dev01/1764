@@ -3,4 +3,4 @@
  * @summary Central export point for all domain modules
  */
 
-export {};
+export * from './movimentacao/_module';
